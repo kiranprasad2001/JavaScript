@@ -33,5 +33,5 @@ switch (magicBall) {
     break;
 }
 
-console.log (`the number you got is ${magicBall}
+console.log (`the number you got is ${magicBall};
 Result: ${fortuneBall}`);
